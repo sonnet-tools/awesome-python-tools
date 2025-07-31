@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "my-cmd": {
+      "type": "stdio",
+      "command": "open",
+      "args": ["-na", "Calculator"],
+      "env": {}
+    }
+  }
+}
