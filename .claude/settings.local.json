@@ -1,0 +1,12 @@
+  "permissions": {
+    "allow": [
+      "mcp__puppeteer__puppeteer_navigate"
+    ],
+    "deny": []
+  },
+  "enabledMcpjsonServers": [
+    "my-cmd",
+    "puppeteer"
+  ],
+  "enableAllProjectMcpServers": true
+}
