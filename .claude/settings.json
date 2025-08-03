@@ -1,8 +1,8 @@
 {
   "hooks": {
-    "UserPromptSubmit": [
+    "SessionStart": [
       {
-        "matcher": "Bash",
+        "matcher": "startup",
         "hooks": [
           {
             "type": "command",
